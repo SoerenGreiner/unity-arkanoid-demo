@@ -35,7 +35,7 @@ Short demo of a simple Arkanoid game made in Unity.
 
 ## Gameplay Demo
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/cB5VmhM05uQ)
+[![Watch the video](Media/thumbnail.png)](https://youtu.be/cB5VmhM05uQ)
 
 ## Tech
 
