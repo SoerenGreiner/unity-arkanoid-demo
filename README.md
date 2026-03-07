@@ -12,7 +12,7 @@ Short demo of a simple Arkanoid game made in Unity.
 - Total = 34 blocks = 800 points
 
 ### Power-Ups:
--Collide generally only with the paddle
+- Collide generally only with the paddle
 
 ### Multiball:
 - Creates 4 balls in front of the paddle
